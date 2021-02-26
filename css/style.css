@@ -1711,7 +1711,7 @@ span.meta-date {
       font-size: 1.5em;
 	}
    .row.portfolio-masonary-active, .service-agileits {
-      margin: 0 15px 30px;
+      margin: 0 15px;
    }
 }
 @media (max-width: 736px){
