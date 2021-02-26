@@ -1710,6 +1710,9 @@ span.meta-date {
 	.agile_count_grid h5 {
       font-size: 1.5em;
 	}
+   .row.portfolio-masonary-active, .service-agileits {
+      margin: 0 15px;
+   }
 }
 @media (max-width: 736px){
 	.agile_count_grid h5 {
