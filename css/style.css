@@ -300,7 +300,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    background: url(../images/hero-banner.jpg) no-repeat center 41%;
+    background: url(../images/banner.jpg) no-repeat center 41%;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
